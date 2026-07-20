@@ -129,4 +129,7 @@ print(prediction[0])  # 'REAL' or 'FAKE'
 - Add explainability — inspect which TF-IDF terms most influence each prediction.
 - Build a simple web UI (e.g. Flask/Streamlit) around the saved model for live
   predictions.
-# Fake-News-Detection
+
+## Issues
+
+- If you found any errors, please make an issue report; really appreciate it 🤭
